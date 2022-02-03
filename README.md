@@ -1,1 +1,1 @@
-# data_science_studies
+# Pasta de códigos estudados e desenvolvido duarnte estudos em data science
