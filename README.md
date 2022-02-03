@@ -1,1 +1,1 @@
-# Pasta de códigos estudados e desenvolvido duarnte estudos em data science
+# Pasta de códigos estudados e desenvolvido durante estudos em data science
