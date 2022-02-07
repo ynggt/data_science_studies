@@ -1,1 +1,1 @@
-#Códigos desenvolvido durante o curso de formação em Data Science da Alura em parceria com o Grupo Boticário, através do programa Desenvolve2022
+Alguns códigos em HTML e JavaScript desenvolvido durante a formação em Data Science da alura em parceria com o GrupoBoticario. Jogo da advinhação, simulando código para um LOGIN de forma bem intuitiva e simples, são os primeiros passos. 
