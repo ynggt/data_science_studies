@@ -1,1 +1,1 @@
-# Códigos, dados e pequenos projetos desenvolvido durante estudos em data science, análise de dados e estatística. 
+# Códigos, e projetos usados e desenvolvidos durante estudos em Data Science.
