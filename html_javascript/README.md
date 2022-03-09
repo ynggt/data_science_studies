@@ -1,1 +1,0 @@
-# Alguns códigos em HTML e JavaScript desenvolvido durante a formação em Data Science da alura em parceria com o GrupoBoticario. Jogo da advinhação, simulando código para um LOGIN de forma bem intuitiva e simples. O intuito desses códigos é se familiarizar em como funciona a lógica de programação usando Js.
